@@ -1,0 +1,15 @@
+{
+  "ornek_proje": {
+    "name": "Örnek Proje",
+    "files": {
+      "main.py": "# Bu bir örnek projedir.\nprint('Merhaba Dünya!')"
+    }
+  },
+  "tamer2": {
+    "name": "tamer2",
+    "files": {
+      "main.py": "import streamlit as st\n\nst.title('tamer2')\n\nst.write(\"🚀 Yeni proje başlatıldı!\")\n\n# Buraya kodunuzu yazın\nst.success(\"Proje hazır!\")",
+      "readme.md.py": "# readme.md.py\n\n# Yeni dosya içeriği buraya yazılacak\n"
+    }
+  }
+}
